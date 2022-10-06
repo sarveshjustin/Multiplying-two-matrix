@@ -1,6 +1,7 @@
 # Multiplying-two-matrix
 
 ## AIM:
+To write a python program to multiply two arrays using numpy.
 
 ## ALGORITHM:
 Step 1:
